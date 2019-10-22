@@ -16,13 +16,13 @@ LOGS_FILE_TABLE_NAME = "log_file"
 LOGS_TABLE_NAME =   "log"
 
 
-INPUT_LOGS_DIRECTORY    = "C:\\Users\\henryraul\\Documents\\GIT\\LOG_FORMAT\\1input\\"
-OUTPUT_LOGS_DIRECTORY   = "C:\\Users\\henryraul\\Documents\\GIT\\LOG_FORMAT\\2output\\"
-DATABASE_LOGS_DIRECTORY = "C:\\Users\\henryraul\\Documents\\GIT\\LOG_FORMAT\\3database\\"
+INPUT_LOGS_DIRECTORY    = "F:\\GITHUB\\log_format\\1input\\"
+OUTPUT_LOGS_DIRECTORY   = "F:\\GITHUB\\log_format\\2output\\"
+DATABASE_LOGS_DIRECTORY = "F:\\GITHUB\\log_format\\3database\\"
 
-PROBLEM_LOGS_DIR        = "C:\\Users\\henryraul\\Documents\\GIT\\LOG_FORMAT\\aux_Processed_with_problem\\"
-DUPLICATED_DIRECTORY    = "C:\\Users\\henryraul\\Documents\\GIT\\LOG_FORMAT\\aux_duplicated\\"
-FINISH_LOGS_PROCESING   = "C:\\Users\\henryraul\\Documents\\GIT\\LOG_FORMAT\\aux_Processed\\"
+PROBLEM_LOGS_DIR        = "F:\\GITHUB\\log_format\\aux_Processed_with_problem\\"
+DUPLICATED_DIRECTORY    = "F:\\GITHUB\\log_format\\aux_duplicated\\"
+FINISH_LOGS_PROCESING   = "F:\\GITHUB\\log_format\\aux_Processed\\"
 
 #HASH_PATH               = "/mnt/DATOS/GIT/LOG_FORMAT/HASHS.pickle"
 
